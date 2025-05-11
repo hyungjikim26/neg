@@ -1,0 +1,84 @@
+--- random ---
+Q1 acc: 0.503   Q2 acc: 0.482
+Avg per-query acc: 0.492
+Per-pair acc:      0.249
+
+--- tfidf ---
+Q1 acc: 0.603   Q2 acc: 0.380
+Avg per-query acc: 0.492
+Per-pair acc:      0.040
+
+--- tfidf_cue ---
+Q1 acc: 0.622   Q2 acc: 0.372
+Avg per-query acc: 0.497
+Per-pair acc:      0.090
+
+--- cross ---
+Q1 acc: 0.646   Q2 acc: 0.426
+Avg per-query acc: 0.536
+Per-pair acc:      0.158
+
+--- cross_cue ---
+Q1 acc: 0.627   Q2 acc: 0.470
+Avg per-query acc: 0.548
+Per-pair acc:      0.219
+
+--- neg ---
+Q1 acc: 0.490   Q2 acc: 0.474
+Avg per-query acc: 0.482
+Per-pair acc:      0.060
+
+--- neg_cue ---
+Q1 acc: 0.484   Q2 acc: 0.495
+Avg per-query acc: 0.490
+Per-pair acc:      0.137
+
+--- bi ---
+Q1 acc: 0.498   Q2 acc: 0.562
+Avg per-query acc: 0.530
+Per-pair acc:      0.081
+
+--- bi_cue ---
+Q1 acc: 0.561   Q2 acc: 0.494
+Avg per-query acc: 0.527
+Per-pair acc:      0.115
+
+--- reg ---
+Q1 acc: 0.646   Q2 acc: 0.426
+Avg per-query acc: 0.536
+Per-pair acc:      0.158
+
+--- reg_cue ---
+Q1 acc: 0.627   Q2 acc: 0.470
+Avg per-query acc: 0.548
+Per-pair acc:      0.219
+
+--- stack ---
+Q1 acc: 0.575   Q2 acc: 0.515
+Avg per-query acc: 0.545
+Per-pair acc:      0.166
+
+--- ensemble ---
+Q1 acc: 0.633   Q2 acc: 0.448
+Avg per-query acc: 0.540
+Per-pair acc:      0.216
+
+--- sts_roberts ---
+Q1 acc: 0.730   Q2 acc: 0.371
+Avg per-query acc: 0.551
+Per-pair acc:      0.150
+
+--- nevir_roberta ---
+Q1 acc: 0.839   Q2 acc: 0.787
+Avg per-query acc: 0.813
+Per-pair acc:      0.686
+
+--- nevir_roberta_v2 ---
+Q1 acc: 0.821   Q2 acc: 0.792
+Avg per-query acc: 0.807
+Per-pair acc:      0.680
+
+--- nevir_roberta_large ---
+Q1 acc: 0.891   Q2 acc: 0.861
+Avg per-query acc: 0.876
+Per-pair acc:      0.797
